@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488620806276",
+    "project_id": "practicefirebase-ea757",
+    "storage_bucket": "practicefirebase-ea757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488620806276:android:d11b3cf1cfc4a8a3fa72d1",
+        "android_client_info": {
+          "package_name": "com.kjy.risingtest_pratice_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488620806276-m00bk0gok1ur9dbj46o1i76gqmkql3ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBajzdzLXv-Td6fkLvtpoDrGTqROluCCWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488620806276-m00bk0gok1ur9dbj46o1i76gqmkql3ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
